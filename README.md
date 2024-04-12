@@ -12,7 +12,22 @@
 
 3. Flask Playlist:   
 
-4. Fast API Tutorials 
+4. Fast API Tutorials
+
+5. Python for Machine Learning:
+  [Python for ML]( https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
+6. Python Best Practice.
+   [Python Object Oriented Best Practise](https://docs.python-guide.org/)
+
+7. Python Problem Solving
+   [Python problem solving](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md)
+
+8. Python scripts that are designed to reduce human workload and serve as educational examples
+   [Python scripts for automation](https://github.com/geekcomputers/Python)
+
+9. repository is a valuable resource that provides links to project-based tutorials for various programming languages, with a particular focus on Python.
+   [Python based projects for learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
 
 ## 2. Basic Machine Learning Natural Language Processing (Day 1 - Day 5) [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 1. Why NLP?
