@@ -6,7 +6,8 @@
 #### Python:
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
 
-1. Complete Python Playlist In English: 
+1. Complete Python Tutorial:
+   [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 
 3. Flask Playlist:   
