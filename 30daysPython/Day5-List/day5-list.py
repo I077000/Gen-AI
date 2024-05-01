@@ -1,5 +1,8 @@
 # Declare an empty list
 
+import array
+
+
 empty_list =[]
 
 non_empty_list = [1,2,3,4,5]
@@ -38,4 +41,11 @@ it_companies.reverse()
 print(it_companies)
 print(it_companies[:3])
 print(it_companies[-3:])
+
+## Declaring Array in python
+
+array1 = [1,3,5]
+import array
+realArray = array.array('i',array1)
+print(type(realArray))
 
